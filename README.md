@@ -12,13 +12,12 @@ interface, deploying it, and improving it from feedback.
 ### [Vayada](https://github.com/vayada-marketplace/vayada)
 
 A hospitality platform combining a creator marketplace, direct booking engine,
-and property management system. The public monorepo includes seven Next.js apps,
-a TypeScript/Fastify API, Python/FastAPI services, PostgreSQL, WorkOS/AuthKit,
-migration tooling, and end-to-end tests.
+and property management system.
 
-Within Vayada, I'm designing [Ask Intelligence](https://github.com/vayada-marketplace/vayada/blob/main/engineering/ask-intelligence-architecture.md),
-a scoped hotel-owner agent that gathers evidence through typed tools and returns
-structured, auditable answers.
+- Seven Next.js apps, a TypeScript/Fastify API, Python/FastAPI services,
+  PostgreSQL, WorkOS/AuthKit, migration tooling, and end-to-end tests.
+- A scoped hotel-owner AI assistant that gathers evidence through typed tools
+  and returns structured, auditable answers.
 
 ### [Blau Tech](https://github.com/Blau-Tech/BlauTech-Admin)
 
