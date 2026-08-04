@@ -1,18 +1,66 @@
-<h1 align="center">Hi 👋, I'm Flamur Maliqi</h1>
-<h3 align="center">Computer Science Student who also likes cars</h3>
+# Flamur Maliqi
 
-- 🌱 I’m currently learning **quarkus.io**
+Product engineer building AI products, developer tools, and software around real
+operational workflows.
 
-- 💬 Ask me about **Java**
+I like working from the first customer conversation to the shipped product:
+understanding the workflow, defining the data model, building the API and
+interface, deploying it, and improving it from feedback.
 
-- 📫 How to reach me **contact@flamur-maliqi.de**
+## What I'm building
 
-- 📄 Know about my experiences [https://flamur-maliqi.com/](https://flamur-maliqi.com/)
+### [Vayada](https://github.com/vayada-marketplace/vayada)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/flamur-m-1a8267258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flamurmaliqi" height="30" width="40" /></a>
-</p>
+A hospitality platform combining a creator marketplace, direct booking engine,
+and property management system. The public monorepo includes seven Next.js apps,
+a TypeScript/Fastify API, Python/FastAPI services, PostgreSQL, WorkOS/AuthKit,
+migration tooling, and end-to-end tests.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm also designing [Ask Intelligence](https://github.com/vayada-marketplace/vayada/blob/main/engineering/ask-intelligence-architecture.md),
+a scoped hotel-owner agent that gathers evidence through typed tools and returns
+structured, auditable answers.
+
+### [Blau Tech](https://github.com/Blau-Tech/BlauTech-Admin)
+
+A platform and community for discovering technology events, hackathons, and
+scholarships. I build the admin and distribution workflows that move external
+opportunities through ingestion, human review, LinkedIn drafting, publishing,
+and click tracking.
+
+### [MailFlow](https://github.com/FlamurMaliqi/MailFlow)
+
+An AI-assisted email workflow for hospitality teams, with classification, RAG,
+reply drafting, tenant isolation, analytics, and a React/TypeScript interface.
+
+## How I build
+
+```text
+customer conversation
+  -> workflow and data model
+  -> smallest useful end-to-end feature
+  -> build, deploy, and demo
+  -> feedback
+  -> tests, specs, and reusable agent workflows
+  -> repeat
+```
+
+I use coding agents heavily, but keep product decisions, architecture,
+verification, and customer context in the loop. When a task repeats, I try to
+turn it into a documented and testable workflow.
+
+## Selected experiments
+
+- [Drive-thru AI agent](https://github.com/FlamurMaliqi/tech-europe) — a Python/FastAPI voice agent with order handling, conversation analysis, and a Next.js operations dashboard.
+- [Pixel Duck for Codex](https://github.com/FlamurMaliqi/codex-pixel-duck) — an original animated desktop companion with a local installer and standard-library validation.
+- [CMats](https://github.com/FlamurMaliqi/Tum-ai-hackathon) — a voice-first construction-material ordering and multi-site inventory prototype.
+
+## Stack
+
+TypeScript, Python, React, Next.js, Fastify, FastAPI, PostgreSQL, AWS, Docker,
+CI/CD, LLM agents, RAG, and voice interfaces.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/flamur-maliqi/)
+- [X](https://x.com/FlamurderG)
+- [Email](mailto:contact@flamur-maliqi.de)
