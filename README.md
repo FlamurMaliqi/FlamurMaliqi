@@ -16,7 +16,7 @@ and property management system. The public monorepo includes seven Next.js apps,
 a TypeScript/Fastify API, Python/FastAPI services, PostgreSQL, WorkOS/AuthKit,
 migration tooling, and end-to-end tests.
 
-I'm also designing [Ask Intelligence](https://github.com/vayada-marketplace/vayada/blob/main/engineering/ask-intelligence-architecture.md),
+Within Vayada, I'm designing [Ask Intelligence](https://github.com/vayada-marketplace/vayada/blob/main/engineering/ask-intelligence-architecture.md),
 a scoped hotel-owner agent that gathers evidence through typed tools and returns
 structured, auditable answers.
 
